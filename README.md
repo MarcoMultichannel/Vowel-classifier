@@ -9,3 +9,4 @@ The axis are inverted as to reassemble the form of the vowel trapezium.
 
 Finally, the SVM model is created and tested. A logarithm transformation is used to improve performance and to make the graph look better.
 
+![alt text](https://github.com/MarcoMultichannel/Vowel-classifier/blob/main/Graph.png)
